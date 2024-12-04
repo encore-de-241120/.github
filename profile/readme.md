@@ -13,4 +13,6 @@
 
 |챕터|Repository|
 |------|---|
-|Python|[Python lecture source](https://github.com/) |
+|Python|[Python lecture source](https://github.com/encore-de-241120/01_python/) |
+|MySQL|[MySQL lecture source](https://github.com/encore-de-241120/02_mysql) |
+|Data Analysis|[Data Analysis lecture source](https://github.com/encore-de-241120/03_data_analysis) |
